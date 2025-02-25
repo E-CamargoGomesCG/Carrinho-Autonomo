@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/254e892f-8a2b-4306-8f47-df79b7791cb0
 <a href="https://drive.google.com/file/d/1CjR7sWFABADxk1tcqYhgFa2_Rr-Y0xR4/view?usp=sharing" target="_blank">🔗 Documentação Completa</a>
 
 <h2 align="left">Equipe</h2>
-<a href="https://github.com/E-CamargoGomesCG" target="_blank">🔗Eduardo Camargo Gomes</a>
+<a href="https://github.com/Guispf950" target="_blank">🔗Guilherme da Silva Pereira</a>
 <a href="https://github.com/gmonteiro08" target="_blank">🔗Guilherme Monteiro da Silva</a>
 
 ###
