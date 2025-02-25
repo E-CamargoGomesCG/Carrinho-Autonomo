@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="colorControlNormal">@color/black</color>
+    <color name="colorControlActivated">@color/azul_claro</color>
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RoboSmart" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul_claro</item>
+        <item name="colorSecondary">@color/azul_claro</item>
+        <item name="colorTertiary">@color/azul_claro</item>
+        <item name="statusBarBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.RoboSmart" parent="Base.Theme.RoboSmart" />
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="colorSurface">@color/azul_claro</item>
+    </style>
+
+    <style name="CustomToolbarTitle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:fontFamily">@font/roboto_bold</item> <!-- Fonte personalizada -->
+        <item name="android:textSize">20sp</item> <!-- Tamanho da fonte -->
+        <item name="android:textColor">@color/cinza_escuro</item>
+    </style>
+
+    <style name="CustomToolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextAppearance">@style/CustomToolbarTitle</item> <!-- Usa o estilo personalizado do título -->
+    </style>
+
+    <style name="DialogStyleCustomizado" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="windowMinWidthMinor">25%</item>
+    </style>
+
+</resources>
